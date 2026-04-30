@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aarogya Setu</string>
+    <string name="app_description">Personalised Diets for Indian Families</string>
+    <string name="pdf_share_title">Share Diet Plan PDF</string>
+    <string name="pdf_saved">PDF saved successfully</string>
+    <string name="no_pdf_viewer">No PDF viewer installed</string>
+    <string name="firebase_connecting">Connecting to Firebase…</string>
+    <string name="firebase_connected">Firebase Connected ✅</string>
+    <string name="firebase_not_connected">Firebase: Not connected</string>
+    <string name="network_error">Network error. Please check your connection.</string>
+    <string name="loading">Loading Aarogya Setu…</string>
+</resources>

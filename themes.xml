@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Aarogya Setu Brand Colors -->
+    <color name="saffron">#F4A024</color>
+    <color name="turmeric">#E8870A</color>
+    <color name="deep_green">#1B6B3A</color>
+    <color name="mint">#3CB371</color>
+    <color name="spice_red">#C0392B</color>
+    <color name="cream">#FDF8F0</color>
+    <color name="parchment">#F5ECD7</color>
+    <color name="bark">#2C1810</color>
+    <color name="mocha">#5C3317</color>
+    <color name="muted">#7A6050</color>
+    <color name="card">#FFFCF5</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- System -->
+    <color name="black">#000000</color>
+    <color name="status_bar">#2C1810</color>
+    <color name="nav_bar">#2C1810</color>
+</resources>
