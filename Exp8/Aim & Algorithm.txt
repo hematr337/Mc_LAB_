@@ -1,0 +1,18 @@
+Aim
+To develop an Android application to convert temperature from Celsius to Fahrenheit and display the result.
+
+Algorithm
+1: Start
+2: Open Android Studio and create a new project
+3: Design the layout with:
+   - EditText (to enter temperature in Celsius)
+   - Button (to perform conversion)
+   - TextView (to display result)
+4: Initialize all UI components in MainActivity
+5: Set OnClickListener for the button
+6: Read the Celsius value from EditText
+7: Convert input string to numeric value (float/double)
+8: Apply formula:
+   Fahrenheit = (Celsius × 9/5) + 32
+9: Display the result in TextView
+10: Stop
